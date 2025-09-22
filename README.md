@@ -7,7 +7,7 @@
 
     <STYLE>
         .sidebar{
-            width: 300px;
+            width: 250px;
             background: gray;
             color: #fff;
             padding: 30px 20px;
@@ -16,7 +16,7 @@
             color: black;
             margin: 10px;
             color: white;
-            height: 880px
+            height: 880px;
 
         }
         label{
@@ -24,12 +24,13 @@
         
         }
         img{
-            width: 200px;
-            height: 200px;
-            /* border-radius: 50%; */
-            margin-left: 30px;
+            width: 170px;
+            height: 190px;
+            border-radius: 50%;
+            margin-left: 23px;
             margin-top: 10px;
             border: 2px solid black;
+            
         }
         .container{
 
@@ -43,8 +44,8 @@
             padding: 20px;
             box-shadow: 0 8px 24px rgba(2,6,23,0.06);
             background: #fff0f5;
-            height: 900px;
-            width: 840px;
+            height: 910px;
+            width: 700px;
         }
         .main-content{
             flex: 1;
